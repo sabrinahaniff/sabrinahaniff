@@ -5,8 +5,6 @@ I'm currently studying Computer Science at the University of Guelph, with a grow
 🧠 Learning: Machine Learning, NLP, and more.
 🌱 Always exploring new technologies and building cool things along the way.
 
-Let’s connect or collaborate—I'm always open to new ideas.
-
 
 
 
