@@ -19,6 +19,3 @@ and computer vision.
 
 ## Interests
 AI Security · Adversarial ML · Federated Learning · Privacy-Preserving AI · LLM Safety
-
-## Connect
-[LinkedIn](https://linkedin.com/in/sabrinahaniff) | sabrinahaniff63@gmail.com
