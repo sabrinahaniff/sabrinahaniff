@@ -10,13 +10,13 @@ and real-world applications.
 
 ## What I'm Building
 
-- **LLM Red Team Lab** — automated 4-agent jailbreak system measuring attack 
+- **LLM Red Team Lab**: automated 4-agent jailbreak system measuring attack 
   success rates with and without guardrail defense
-- **Federated Learning Poisoning Simulator** — simulates poisoning attacks on 
+- **Federated Learning Poisoning Simulator**: simulates poisoning attacks on 
   distributed AI systems and tests aggregation defenses
-- **Adversarial Image Attacks (FGSM)** — crafts invisible perturbations that 
+- **Adversarial Image Attacks (FGSM)**: crafts invisible perturbations that 
   fool image classifiers, implemented from scratch in PyTorch
-- **BayMax Clinical AI** — privacy-aware AI assistant for healthcare, parsing 
+- **BayMax Clinical AI**: privacy-aware AI assistant for healthcare, parsing 
   FHIR records and detecting medication conflicts
 
 ## Interests
