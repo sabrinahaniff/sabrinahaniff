@@ -24,5 +24,3 @@ I’m especially interested in how modern ML systems fail in the real world (pro
 AI Security · Adversarial ML · Federated Learning · Privacy-Preserving AI · LLM Safety
 
 ---
-
-If you’d like to collaborate or chat about AI security, feel free to reach out.
