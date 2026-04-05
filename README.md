@@ -1,21 +1,28 @@
 # Hi, I'm Sabrina
 
-CS student at the University of Guelph interested in AI security, 
-adversarial machine learning, and privacy-preserving AI.
+CS student at the University of Guelph focused on **AI security**, **adversarial machine learning**, and **privacy-preserving ML**.
 
-I like understanding how AI systems get attacked and building things 
-to test those ideas across language models, federated learning, 
-and computer vision.
+I’m especially interested in how modern ML systems fail in the real world (prompt injection & jailbreaks, data poisoning, model inversion/membership inference) and how we can design **practical evaluations and defenses**.
 
-## Projects
-- **LLM Red Team Lab**: automated 4-agent jailbreak system that measures 
-  attack success rates with and without a guardrail defense
-- **Federated Learning Poisoning Simulator**: simulates poisoning attacks 
-  on distributed AI and tests aggregation defenses
-- **Adversarial Image Attacks**: crafts invisible perturbations that fool 
-  image classifiers, built from scratch in PyTorch
-- **BayMax Clinical AI**: privacy-aware AI assistant parsing FHIR records 
-  and detecting medication conflicts
+## What I’m into
+- **LLM safety & red teaming** (attack/defense evaluation, robustness testing)
+- **Privacy in ML** (federated learning, secure/robust aggregation, privacy tradeoffs)
+- **Computer vision security** (adversarial examples, robustness)
+- **Building tools** that make research ideas reproducible
+
+## Previously built (selected)
+- **LLM Red Team Lab** — automated multi-agent jailbreak evaluation with and without guardrails
+- **Federated Learning Poisoning Simulator** — poisoning attack simulations + aggregation defense testing
+- **Adversarial Image Attacks** — adversarial perturbations for image classifiers (PyTorch)
+- **BayMax Clinical AI** — privacy-aware assistant parsing FHIR records for medication conflict detection
+
+## Currently
+- Learning more about **security-minded ML evaluation** and reading papers in adversarial ML + privacy
+- Looking for opportunities in **AI security / ML security research**
 
 ## Interests
 AI Security · Adversarial ML · Federated Learning · Privacy-Preserving AI · LLM Safety
+
+---
+
+If you’d like to collaborate or chat about AI security, feel free to reach out.
