@@ -11,10 +11,10 @@ I’m especially interested in how modern ML systems fail in the real world (pro
 - **Building tools** that make research ideas reproducible
 
 ## Previously built (selected)
-- **LLM Red Team Lab** — automated multi-agent jailbreak evaluation with and without guardrails
-- **Federated Learning Poisoning Simulator** — poisoning attack simulations + aggregation defense testing
-- **Adversarial Image Attacks** — adversarial perturbations for image classifiers (PyTorch)
-- **BayMax Clinical AI** — privacy-aware assistant parsing FHIR records for medication conflict detection
+- **LLM Red Team Lab**: automated multi-agent jailbreak evaluation with and without guardrails
+- **Federated Learning Poisoning Simulator**: poisoning attack simulations + aggregation defense testing
+- **Adversarial Image Attacks**: adversarial perturbations for image classifiers (PyTorch)
+- **BayMax Clinical AI**: privacy-aware assistant parsing FHIR records for medication conflict detection
 
 ## Currently
 - Learning more about **security-minded ML evaluation** and reading papers in adversarial ML + privacy
