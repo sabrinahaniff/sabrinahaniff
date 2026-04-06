@@ -10,7 +10,7 @@ I’m especially interested in how modern ML systems fail in the real world (pro
 - **Computer vision security** (adversarial examples, robustness)
 - **Building tools** that make research ideas reproducible
 
-## Previously built (selected)
+## Previously built
 - **LLM Red Team Lab**: automated multi-agent jailbreak evaluation with and without guardrails
 - **Federated Learning Poisoning Simulator**: poisoning attack simulations + aggregation defense testing
 - **Adversarial Image Attacks**: adversarial perturbations for image classifiers (PyTorch)
