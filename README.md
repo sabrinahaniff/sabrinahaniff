@@ -11,10 +11,6 @@ CS student at the University of Guelph building AI systems focused on **security
 | Prompt injection testing | Differential privacy tools | Document analysis systems |
 | Multi-agent security testing | Privacy-utility analysis | Computer vision security |
 
-## Focus Areas
-
-**AI Security** · **Adversarial ML** · **Federated Learning** · **Privacy-Preserving AI** · **LLM Safety**
-
 ---
 
 ##  Study Notes & Resources
