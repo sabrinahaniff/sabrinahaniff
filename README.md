@@ -1,23 +1,30 @@
 # Hi, I'm Sabrina
 
-AI/ML Engineer specializing in **security**, **privacy**, and **adversarial robustness**
+CS student at the University of Guelph building AI systems focused on **security**, **privacy**, and **adversarial robustness**
 
-## Expertise
+Currently working on LLM safety evaluation and privacy-preserving ML while completing my degree. I've built production systems for legal tech, healthcare AI, and security research.
 
-| **Security & Red Teaming** | **Privacy-Preserving ML** | **Applied AI** |
+## What I Build
+
+| **Security & Red Teaming** | **Privacy-Preserving ML** | **Applied AI Systems** |
 |---|---|---|
-| LLM safety & jailbreak evaluation | Federated learning | Legal tech systems |
-| Adversarial machine learning | Secure aggregation protocols | Healthcare AI |
-| Prompt injection defense | Differential privacy | Computer vision security |
-| Multi-agent security testing | Privacy-utility tradeoffs | Production ML pipelines |
+| Automated jailbreak evaluation | Federated learning simulators | Legal AI assistants |
+| Adversarial attack frameworks | Secure aggregation protocols | Healthcare data processors |
+| Prompt injection testing | Differential privacy tools | Document analysis systems |
+| Multi-agent security testing | Privacy-utility analysis | Computer vision security |
 
-## Domains
+## Experience Across Domains
 
-| **Legal Tech** | **Healthcare AI** | **Security Systems** |
+| **Legal Tech** | **Healthcare AI** | **ML Security** |
 |---|---|---|
-| AI assistants for legal consulting | FHIR record processing | Adversarial robustness testing |
-| Document analysis systems | Privacy-aware clinical tools | Attack/defense evaluation |
-| Client data protection | Medication conflict detection | Red teaming frameworks |
+| Built AI assistant for legal consulting firm | Privacy-aware FHIR record parser | LLM red teaming frameworks |
+| Document processing & client data protection | Medication conflict detection system | Adversarial image attacks |
+| Contract analysis tools | HIPAA-compliant ML pipelines | Poisoning defense testing |
 
-## Technical Focus
-AI Security  •  Adversarial ML  •  Federated Learning  •  Privacy-Preserving AI  •  LLM Safety
+## Focus Areas
+
+**AI Security** · **Adversarial ML** · **Federated Learning** · **Privacy-Preserving AI** · **LLM Safety**
+
+---
+
+I'm interested in how ML systems fail in production (prompt injection, data poisoning, model inversion) and building practical defenses that actually work in the real world.
