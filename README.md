@@ -34,6 +34,18 @@ Complete cryptography reference:
 - Hash Functions & Digital Signatures
 - Key Exchange Protocols & PKI
 
+### [CIS*3530: Database Systems] (https://github.com/sabrinahaniff/CIS3530_Notes)
+Complete databases reference:
+- ER Diagrams: Cardinality, participation, weak entities
+- Normalization: 1NF → 2NF → 3NF → BCNF progression
+- SQL: Joins, subqueries, aggregation, HAVING
+- Relational Algebra: σ, π, ⨝, ÷ operators
+- Query Optimization: Push σ/π down, access path selection
+- Concurrency: Strict 2PL, conflict serializability
+- Recovery: UNDO/REDO, WAL, checkpoints
+
+
+
 **Format:** Markdown with LaTeX math · Best viewed in [Obsidian](https://obsidian.md) or GitHub
 
 ---
