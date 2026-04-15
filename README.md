@@ -2,8 +2,6 @@
 
 CS student at the University of Guelph building AI systems focused on **security**, **privacy**, and **adversarial robustness**
 
-Currently working on LLM safety evaluation and privacy-preserving ML while completing my degree. I've built production systems for legal tech, healthcare AI, and security research.
-
 ## What I Build
 
 | **Security & Red Teaming** | **Privacy-Preserving ML** | **Applied AI Systems** |
