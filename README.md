@@ -34,7 +34,7 @@ Complete cryptography reference:
 - Hash Functions & Digital Signatures
 - Key Exchange Protocols & PKI
 
-### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530_Notes)
+### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
 Complete databases reference:
 - ER Diagrams: Cardinality, participation, weak entities
 - Normalization: 1NF → 2NF → 3NF → BCNF progression
