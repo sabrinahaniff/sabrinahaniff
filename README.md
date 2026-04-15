@@ -11,13 +11,6 @@ CS student at the University of Guelph building AI systems focused on **security
 | Prompt injection testing | Differential privacy tools | Document analysis systems |
 | Multi-agent security testing | Privacy-utility analysis | Computer vision security |
 
-## Experience Across Domains
-
-| **Legal Tech** | **Healthcare AI** | **ML Security** |
-|---|---|---|
-| Built AI assistant for legal consulting firm | Privacy-aware FHIR record parser | LLM red teaming frameworks |
-| Document processing & client data protection | Medication conflict detection system | Adversarial image attacks |
-| Contract analysis tools | HIPAA-compliant ML pipelines | Poisoning defense testing |
 
 ## Focus Areas
 
