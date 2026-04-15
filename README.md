@@ -21,7 +21,7 @@ CS student at the University of Guelph building AI systems focused on **security
 
 I also make open-source course notes for fellow students:
 
-### [CIS 2910: Discrete Structures](https://github.com/sabrinahaniff/CIS2910)
+### [CIS*2910: Discrete Structures](https://github.com/sabrinahaniff/CIS2910)
 Comprehensive notes covering:
 - Sequences & Summations
 - Number Theory & Modular Arithmetic  
@@ -29,7 +29,7 @@ Comprehensive notes covering:
 - Probability Theory
 - Graph Theory
 
-### [CIS 4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
+### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
 Complete cryptography reference:
 - Mathematical Foundations (Matrix Algebra, Modular Arithmetic)
 - Classical Ciphers & Security Analysis
