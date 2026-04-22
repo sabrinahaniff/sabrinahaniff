@@ -6,8 +6,8 @@ CS student at the University of Guelph building AI and software systems, with in
 
 | Security & Red Teaming | Privacy-Preserving ML | Software & AI Systems |
 |------------------------|----------------------|-----------------------|
-| Jailbreak evaluation | Federated learning | Legal AI assistants |
-| Adversarial attacks | Secure aggregation | Clinical AI assistants |
+| Jailbreak evaluation | Federated learning | Legal AI systems |
+| Adversarial attacks | Secure aggregation | Clinical AI systems |
 | Prompt injection | Differential privacy | Document review systems |
 | Multi-agent safety | Privacy-utility tradeoffs | Word plugin workflows |
 
