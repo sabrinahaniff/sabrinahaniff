@@ -32,7 +32,7 @@ I also make open-source course notes for fellow students:
 - Hash Functions & Digital Signatures
 - Key Exchange Protocols & PKI
 
-## [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
+### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
 - Process Management & Scheduling (FCFS, SJF, SRTF, Round Robin)
 - Process Synchronization (Semaphores, Mutex, Deadlock)
 - Memory Management & Virtual Memory (Paging, TLB, Page Replacement)
