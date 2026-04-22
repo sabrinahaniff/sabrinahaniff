@@ -1,19 +1,17 @@
-# Hi, I'm Sabrina
-
-CS student at the University of Guelph building AI systems at the intersection of security, privacy, and adversarial robustness.
+CS student at the University of Guelph building AI and software systems, with interests in security, privacy, and adversarial robustness.
 
 ## What I Build and Explore
 
-| Security & Red Teaming | Privacy-Preserving ML | Applied AI Systems |
-|------------------------|----------------------|-------------------|
+| Security & Red Teaming | Privacy-Preserving ML | Software & AI Systems |
+|------------------------|----------------------|-----------------------|
 | Jailbreak evaluation | Federated learning | Legal AI assistants |
-| Adversarial attacks | Secure aggregation | Clinical AI workflows |
-| Prompt injection testing | Differential privacy | Document analysis systems |
-| Multi-agent safety | Privacy-utility tradeoffs | Microsoft Word AI tools |
+| Adversarial attacks | Secure aggregation | Clinical AI assistants |
+| Prompt injection | Differential privacy | Document review systems |
+| Multi-agent safety | Privacy-utility tradeoffs | Word plugin workflows |
 
 ---
 
-##  Study Notes & Resources
+## Study Notes & Resources
 
 I also make open-source course notes for fellow students:
 
