@@ -27,7 +27,7 @@ CS student at the University of Guelph building AI and software systems, with in
 I also publish open-source CS notes in Markdown to make technical topics easier for fellow students to learn:
 
 - ### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
-- ### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
+- ### [CIS*4520: Introduction To Cryptography](https://github.com/sabrinahaniff/CIS4520)
 - ### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
 - ### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
 
