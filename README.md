@@ -15,10 +15,10 @@ CS student at the University of Guelph building AI and software systems, with in
 
 ## Featured Projects
 
-- [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
-- [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
-- [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
-- [Private Data Vault](https://github.com/sabrinahaniff/private-data-vault): Local-first encrypted vault combining strong encryption with privacy concepts.
+- #### [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
+- #### [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
+- #### [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
+- #### [Private Data Vault](https://github.com/sabrinahaniff/private-data-vault): Local-first encrypted vault combining strong encryption with privacy concepts.
 
 ---
 
@@ -26,10 +26,10 @@ CS student at the University of Guelph building AI and software systems, with in
 
 I also publish open-source CS notes in Markdown to make technical topics easier for fellow students to learn:
 
-- ### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
-- ### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
-- ### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
-- ### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
+- #### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
+- #### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
+- #### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
+- #### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
 
 **Format:** Markdown with LaTeX math · Best viewed in [Obsidian](https://obsidian.md) or GitHub
 
