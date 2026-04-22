@@ -6,10 +6,10 @@ CS student at the University of Guelph building AI systems focused on **security
 
 | Security & Red Teaming | Privacy-Preserving ML | Applied AI Systems |
 |------------------------|----------------------|-------------------|
-| Automated jailbreak evaluation | Federated learning simulators | Legal AI assistants |
-| Adversarial attack frameworks | Secure aggregation protocols | Healthcare data processors |
-| Prompt injection testing | Differential privacy tools | Document analysis systems |
-| Multi-agent security testing | Privacy-utility analysis | Computer vision security |
+| LLM jailbreak evaluation | Federated learning simulators | Legal AI assistants |
+| Adversarial attack frameworks | Robust aggregation analysis | Clinical AI systems |
+| Prompt injection testing | Differential privacy tooling | AI document review workflows |
+| Multi-agent security evaluation | Privacy-utility analysis | Microsoft Word AI plugins |
 
 ---
 
