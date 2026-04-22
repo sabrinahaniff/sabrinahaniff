@@ -15,7 +15,7 @@ CS student at the University of Guelph building AI and software systems, with in
 
 ## Study Notes & Resources
 
-I also make open-source course notes for fellow students:
+I also publish open-source CS notes in Markdown to make technical topics easier for fellow students to learn:
 
 ### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
 ### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
