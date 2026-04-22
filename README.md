@@ -18,34 +18,9 @@ CS student at the University of Guelph building AI systems focused on **security
 I also make open-source course notes for fellow students:
 
 ### [CIS*2910: Discrete Structures](https://github.com/sabrinahaniff/CIS2910)
-- Sequences & Summations
-- Number Theory & Modular Arithmetic  
-- Counting Principles & Combinatorics
-- Probability Theory
-- Graph Theory
-
 ### [CIS*4520: Cryptography](https://github.com/sabrinahaniff/CIS4520)
-- Mathematical Foundations (Matrix Algebra, Modular Arithmetic)
-- Classical Ciphers & Security Analysis
-- Symmetric Cryptography (AES, Block Cipher Modes)
-- Public Key Cryptography (RSA, Diffie-Hellman)
-- Hash Functions & Digital Signatures
-- Key Exchange Protocols & PKI
-
 ### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
-- Process Management & Scheduling (FCFS, SJF, SRTF, Round Robin)
-- Process Synchronization (Semaphores, Mutex, Deadlock)
-- Memory Management & Virtual Memory (Paging, TLB, Page Replacement)
-- File Systems & I/O (Inodes, DMA, Allocation Methods)
-
 ### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
-- ER Diagrams: Cardinality, participation, weak entities
-- Normalization: 1NF → 2NF → 3NF → BCNF progression
-- SQL: Joins, subqueries, aggregation, HAVING
-- Relational Algebra: σ, π, ⨝, ÷ operators
-- Query Optimization: Push σ/π down, access path selection
-- Concurrency: Strict 2PL, conflict serializability
-- Recovery: UNDO/REDO, WAL, checkpoints
 
 **Format:** Markdown with LaTeX math · Best viewed in [Obsidian](https://obsidian.md) or GitHub
 
