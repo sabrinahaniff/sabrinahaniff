@@ -15,10 +15,10 @@ CS student at the University of Guelph building AI and software systems, with in
 
 ## Featured Projects
 
-- [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
-- [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
-- [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
-- [Private Data Vault](https://github.com/sabrinahaniff/private-data-vault): Local-first encrypted vault combining strong encryption with privacy concepts.
+- ### [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
+- ### [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
+- ### [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
+- ### [Private Data Vault](https://github.com/sabrinahaniff/private-data-vault): Local-first encrypted vault combining strong encryption with privacy concepts.
 
 ---
 
