@@ -1,6 +1,6 @@
-# Hi, I'm Sabrina
+# Hi, I'm Sabrina 
 
-CS student at the University of Guelph building AI and software systems, with interests in security, privacy, and adversarial robustness.
+I’m a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
 
 ## What I Build and Explore
 
