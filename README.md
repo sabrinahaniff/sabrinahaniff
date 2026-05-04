@@ -15,10 +15,10 @@ I’m a CS student at the University of Guelph interested in building AI systems
 
 ## Featured Projects
 
+- [GenAI Privacy Audit](https://github.com/sabrinahaniff/genai-privacy-audit): Membership inference attacks on GAN discriminators and differential privacy as a defense.
 - [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
 - [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
 - [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
-- [Private Data Vault](https://github.com/sabrinahaniff/private-data-vault): Local-first encrypted vault combining strong encryption with privacy concepts.
 
 ---
 
