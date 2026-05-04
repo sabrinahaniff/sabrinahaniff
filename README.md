@@ -2,6 +2,8 @@
 
 I’m a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sabrinahaniff)
+
 ## What I Build and Explore
 
 | Security & Red Teaming | Privacy-Preserving ML | Software & AI Systems |
