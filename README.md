@@ -2,15 +2,6 @@
 
 I’m a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
 
-## What I Build and Explore
-
-| Security & Red Teaming | Privacy-Preserving ML | Software & AI Systems |
-|------------------------|----------------------|-----------------------|
-| Jailbreak evaluation | Federated learning | Legal AI systems |
-| Adversarial attacks | Secure aggregation | Clinical AI systems |
-| Prompt injection | Differential privacy | Document review systems |
-| Multi-agent safety | Privacy-utility tradeoffs | Word plugin workflows |
-
 ---
 
 ## Featured Projects
