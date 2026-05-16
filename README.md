@@ -28,7 +28,7 @@ I also publish open-source CS notes in Markdown to make technical topics easier 
 
 - ### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
 - ### [CIS*4520: Introduction To Cryptography](https://sabrinahaniff.github.io/CIS4520-Notes/)
-- ### [CIS*3110: Operating Systems](https://github.com/sabrinahaniff/CIS3110-Notes)
+- ### [CIS*3110: Operating Systems](https://sabrinahaniff.github.io/CIS3110-Notes/)
 - ### [CIS*3530: Database Systems](https://github.com/sabrinahaniff/CIS3530-Notes)
 
 **Format:** Markdown with LaTeX math · Best viewed in [Obsidian](https://obsidian.md) or GitHub
