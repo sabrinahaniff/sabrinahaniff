@@ -15,7 +15,7 @@ I’m a CS student at the University of Guelph interested in building AI systems
 
 ## Study Notes & Resources
 
-I also publish open-source CS notes in Markdown to make technical topics easier for fellow students to learn:
+I also publish open-source CS notes on Github Pages and Markdown to make technical topics easier for fellow students to learn:
 
 - ### [CIS*2910: Discrete Structures II](https://github.com/sabrinahaniff/CIS2910)
 - ### [CIS*4520: Introduction To Cryptography](https://sabrinahaniff.github.io/CIS4520-Notes/)
