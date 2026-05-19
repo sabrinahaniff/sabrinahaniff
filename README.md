@@ -1,6 +1,6 @@
-# Hi, I'm Sabrina 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9B1D6&width=500&lines=Hi%2C+I'm+Sabrina+%F0%9F%91%8B;CS+Student+%40+University+of+Guelph;Building+AI+systems+%26+breaking+them;Security+%7C+Privacy+%7C+Adversarial+ML)](https://git.io/typing-svg)
 
-I’m a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
+I'm a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
 
 ---
 
