@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Sabrina;CS+Student+%40+University+of+Guelph;)](https://git.io/typing-svg)
-
----
-
 ## Study Notes & Resources
 
 I publish open-source CS notes on Github Pages and Markdown for students to learn:
