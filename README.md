@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Sabrina;CS+Student+%40+University+of+Guelph;Security+%7C+Privacy+%7C+Adversarial+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Sabrina;CS+Student+%40+University+of+Guelph;)](https://git.io/typing-svg)
 
 ---
 
