@@ -1,16 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Sabrina;CS+Student+%40+University+of+Guelph;Security+%7C+Privacy+%7C+Adversarial+ML)](https://git.io/typing-svg)
 
-I'm a CS student at the University of Guelph interested in building AI systems and understanding how they fail, especially in security, privacy, and adversarial settings.
-
----
-
-## Featured Projects
-
-- [GenAI Privacy Audit](https://github.com/sabrinahaniff/genai-privacy-audit): Membership inference attacks on GAN discriminators and differential privacy as a defense.
-- [LLM Redteam Lab](https://github.com/sabrinahaniff/llm-redteam-lab): Automated LLM red-teaming system for prompt injection and guardrail testing.
-- [Federated Poison Simulator](https://github.com/sabrinahaniff/federated-poison-sim): Simulation exploring poisoning attacks against federated learning aggregation.
-- [NPM Scanner](https://github.com/sabrinahaniff/npm-scanner): CLI vulnerability scanner for `package.json` using the OSV database.
-
 ---
 
 ## Study Notes & Resources
